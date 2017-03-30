@@ -16,3 +16,9 @@ The full model is driven by weather data, as well as population densities, cattl
 ftp://ftp.uib.no/pub/gfi/tlu004/OMaWa/omawa_1.0_example.tar.gz
 
 
+
+http://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-12-28
+http://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-12-78
+http://parasitesandvectors.biomedcentral.com/articles/10.1186/1756-3305-6-20
+
+
