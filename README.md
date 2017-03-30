@@ -17,8 +17,13 @@ ftp://ftp.uib.no/pub/gfi/tlu004/OMaWa/omawa_1.0_example.tar.gz
 
 
 
+A dynamic model of some malaria-transmitting anopheline mosquitoes of the Afrotropical region. I. Model description and sensitivity analysis
 http://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-12-28
+
+A dynamic model of some malaria-transmitting anopheline mosquitoes of the Afrotropical region. II. Validation of species distribution and seasonal variations
 http://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-12-78
+
+How malaria models relate temperature to malaria transmission
 http://parasitesandvectors.biomedcentral.com/articles/10.1186/1756-3305-6-20
 
 
