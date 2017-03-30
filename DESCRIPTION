@@ -1,0 +1,12 @@
+Package: OMaWa
+Type: Package
+Title: OMaWa
+Version: 0.1
+Date: 2012-09-21
+Author: Torleif Markussen Lunde <torleif.lunde@cih.uib.no>
+Maintainer: Torleif Markussen Lunde <torleif.lunde@cih.uib.no>
+Depends: deSolve
+Description: This package provides functions described in the paper A dynamic model of some malaria-transmitting anopheline mosquitoes of the Afrotropical region
+License: GPL version 2 or newer
+Models:
+Packaged: 2012-10-25 10:46:29 UTC; lunde
